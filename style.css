@@ -1,1 +1,15 @@
-
+header {
+    background-color: aqua;
+    color:aliceblue
+}
+{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

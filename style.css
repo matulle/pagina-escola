@@ -1,15 +1,18 @@
-header {
-    background-color: aqua;
-    color:aliceblue
-}
-{
-    margin: 0;
-    padding: 0;
-}
+*{
+    margin:0;
+    padding:0;
+    }
+    body{
+        font-family: popins, sans-serif;
+    }
 .cabeçalho {
     background-color: #424E61;
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-imagen {
+    width: 10%;
 }
